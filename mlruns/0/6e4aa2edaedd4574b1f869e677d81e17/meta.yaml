@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS%20Project/mlruns/0/6e4aa2edaedd4574b1f869e677d81e17/artifacts
+end_time: 1753085925230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e4aa2edaedd4574b1f869e677d81e17
+run_name: youthful-donkey-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753085918453
+status: 3
+tags: []
+user_id: saini

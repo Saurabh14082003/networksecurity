@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS%20Project/mlruns/0/917629a165404c36be2a3b3a2459c09d/artifacts
+end_time: 1753085918350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 917629a165404c36be2a3b3a2459c09d
+run_name: angry-vole-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753085898252
+status: 3
+tags: []
+user_id: saini
